@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hedibertosilva
 - 👀 I’m interested in backend tecnologies
-- 🌱 I’m currently learning about Python and Node JS
+- 🌱 I’m currently learning about Python, Golang, Rust and NodeJS
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
